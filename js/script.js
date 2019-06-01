@@ -5,6 +5,7 @@ const switcher = document.querySelector('#cbx'),
 let player;
 
 
+
 function bindSlideToggle(trigger, boxBody, content, openClass) {
     let button = {
         'element': document.querySelector(trigger),
